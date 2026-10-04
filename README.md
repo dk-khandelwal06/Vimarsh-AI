@@ -145,38 +145,18 @@ graph TD
 
 **1️⃣ Introduction**
 
-<img src="./assets/slide%201.png" alt="Slide 1 – Introduction to Vimarsh.AI and the team" width="100%">
+<img src="./assets/Slide1.PNG" alt="Slide 1 – Introduction to Vimarsh.AI and the team" width="100%">
 
 Introducing Vimarsh.AI, its purpose, and the team behind the project.
 
 </td>
 <td width="50%" valign="top">
 
-**6️⃣ How It Works**
-
-<img src="./assets/slide%206.png" alt="Slide 6 – How Vimarsh.AI works" width="100%">
-
-The journey from submitting suspicious content to considering safer next steps.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **2️⃣ The Problem**
 
-<img src="./assets/slide%202.png" alt="Slide 2 – The problem of digital fraud" width="100%">
+<img src="./assets/Slide2.PNG" alt="Slide 2 – The problem of digital fraud" width="100%">
 
 Why digital fraud and deceptive investment messages can be difficult to recognize.
-
-</td>
-<td width="50%" valign="top">
-
-**7️⃣ Live Prototype Demo**
-
-<img src="./assets/slide%207.png" alt="Slide 7 – Live prototype demo" width="100%">
-
-A visual walkthrough of the Vimarsh.AI prototype and its analysis experience.
 
 </td>
 </tr>
@@ -185,38 +165,18 @@ A visual walkthrough of the Vimarsh.AI prototype and its analysis experience.
 
 **3️⃣ The Gap**
 
-<img src="./assets/slide%203.png" alt="Slide 3 – The gap in simple warnings" width="100%">
+<img src="./assets/Slide3.PNG" alt="Slide 3 – The gap in simple warnings" width="100%">
 
 Why simple warnings alone may not help users understand or evaluate suspicious content.
 
 </td>
 <td width="50%" valign="top">
 
-**8️⃣ Technology & Access**
-
-<img src="./assets/slide%208.png" alt="Slide 8 – Technology and prototype access" width="100%">
-
-The system architecture, technical foundation, and prototype access information.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **4️⃣ Our Solution**
 
-<img src="./assets/slide%204.png" alt="Slide 4 – Our solution" width="100%">
+<img src="./assets/Slide4.PNG" alt="Slide 4 – Our solution" width="100%">
 
 Introducing Vimarsh.AI as an AI-assisted digital fraud awareness platform.
-
-</td>
-<td width="50%" valign="top">
-
-**9️⃣ Impact & Vision**
-
-<img src="./assets/slide%209.png" alt="Slide 9 – Impact and vision" width="100%">
-
-Awareness, accessibility, scalability, and the vision for a more fraud-resilient India.
 
 </td>
 </tr>
@@ -225,16 +185,56 @@ Awareness, accessibility, scalability, and the vision for a more fraud-resilient
 
 **5️⃣ Unique USP**
 
-<img src="./assets/slide%205.png" alt="Slide 5 – Unique value proposition" width="100%">
+<img src="./assets/Slide5.PNG" alt="Slide 5 – Unique value proposition" width="100%">
 
 Multimodal analysis, Socratic guidance, and actionable safety information.
 
 </td>
 <td width="50%" valign="top">
 
+**6️⃣ How It Works**
+
+<img src="./assets/Slide6.PNG" alt="Slide 6 – How Vimarsh.AI works" width="100%">
+
+The journey from submitting suspicious content to considering safer next steps.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**7️⃣ Live Prototype Demo**
+
+<img src="./assets/Slide7.PNG" alt="Slide 7 – Live prototype demo" width="100%">
+
+A visual walkthrough of the Vimarsh.AI prototype and its analysis experience.
+
+</td>
+<td width="50%" valign="top">
+
+**8️⃣ Technology & Access**
+
+<img src="./assets/Slide8.PNG" alt="Slide 8 – Technology and prototype access" width="100%">
+
+The system architecture, technical foundation, and prototype access information.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**9️⃣ Impact & Vision**
+
+<img src="./assets/Slide9.PNG" alt="Slide 9 – Impact and vision" width="100%">
+
+Awareness, accessibility, scalability, and the vision for a more fraud-resilient India.
+
+</td>
+<td width="50%" valign="top">
+
 **🔟 Thank You**
 
-<img src="./assets/slide%2010.png" alt="Slide 10 – Thank you" width="100%">
+<img src="./assets/Slide10.PNG" alt="Slide 10 – Thank you" width="100%">
 
 Closing message and acknowledgement of the project team.
 
