@@ -19,7 +19,7 @@ An AI-assisted fraud-awareness prototype that helps people **understand** suspic
 
 <br>
 
-**[🚀 Try the Prototype](https://vimarsh-ai-eight.vercel.app/)** &nbsp;•&nbsp; **[🎬 Pitch Deck](#-pitch-deck-gallery)** &nbsp;•&nbsp; **[🔧 Local Setup](#-installation--local-setup)** &nbsp;•&nbsp; **[👥 Team](#-team)**
+**[▶️ Watch The Video](https://youtu.be/I9yJOF_yryM)** &nbsp;•&nbsp; **[🚀 Try the Prototype](https://vimarsh-ai-eight.vercel.app/)** &nbsp;•&nbsp; **[🎬 Pitch Deck](#-pitch-deck-gallery)** &nbsp;•&nbsp; **[🔧 Local Setup](#-installation--local-setup)** &nbsp;•&nbsp; **[👥 Team](#-team)**
 
 </div>
 
