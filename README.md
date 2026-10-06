@@ -260,6 +260,19 @@ Closing message and acknowledgement of the project team.
 
 ---
 
+## ▶️ Watch The Video
+
+<div align="center">
+
+### 👉 **[Click Here](https://youtu.be/I9yJOF_yryM)** 👈
+
+*Judges can watch the video with just one click.*
+
+<sub>This is a hackathon video; made under the hackathon concept only.</sub>
+
+</div>
+
+---
 ## 🔧 Installation & Local Setup
 
 **Prerequisites:** Node.js 18+ and npm.
